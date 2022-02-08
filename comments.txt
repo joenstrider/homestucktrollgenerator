@@ -1,0 +1,4 @@
+hello! if you're reading this, you probably want some insightful commentary. well, truth is, i don't have any! at all!
+i'm planning on grabbing a massive name repository for trolls, as well as land names (like LOFAF and LOCAR), so that variety is increased and you're not stuck staring at the same file for a million years.
+other than that, i'm planning a kid generator and a cherub generator, as well as a combination of all three. i might not manage to finish it, but it'll be fun, i think.
+i'm also considering adding options to retrieve hex codes for the troll's blood colours, and adding a lusus generator. these will take a bit of time, so the next update probably won't be for quite a bit.
